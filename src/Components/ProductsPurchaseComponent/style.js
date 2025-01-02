@@ -10,6 +10,7 @@ export const WrapperPurchaseLeft = styled.div`
     background-color: #ffffff;
     padding: 20px;
     width: 60%;
+     border-right: 2px solid #e0e0e0; /* Vertical separator */
 `
 export const WrapperPurchaseTitle = styled.div`
     font-size: 22px;
