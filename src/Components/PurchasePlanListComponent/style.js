@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const TitleListBuy = styled.div`
-    padding: 13px 25px 0px 25px;
+    padding: 0px 25px 0px 25px;
 `
 export const ListBuy = styled.div`
     background-color: #ffffff;
